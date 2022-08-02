@@ -1,0 +1,12 @@
+.mystyle {
+
+    font-weight: bold;
+    padding: 3px;
+    margin-bottom: 0.5em;
+    border-radius: 6px;
+    border: 1px solid lightgray;
+    display: flex;
+
+    align-items: center;
+
+}
